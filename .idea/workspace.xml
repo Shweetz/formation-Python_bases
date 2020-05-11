@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0d17a34-931c-4d52-bc71-2ea16ef69ea9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/workbooks/00_free_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/00_free_notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/01_bases.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/01_bases.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/02_Introduction_fonctions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/02_Introduction_fonctions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/03_Structure_conditionnelle.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/03_Structure_conditionnelle.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/04_exceptions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/04_exceptions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/05_Imports.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/05_Imports.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/06_parametres_et_presentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/06_parametres_et_presentation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/07_Collections_listes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/07_Collections_listes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/07bis_Collections_dictionnaires.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/07bis_Collections_dictionnaires.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/08_boucles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/08_boucles.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/09_Fonctions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/09_Fonctions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/10_Python_way_1_listes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/10_Python_way_1_listes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/11_Python_way_2_fonctions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/11_Python_way_2_fonctions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/annexe_03_dates.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/annexe_03_dates.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbooks/wblib/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/workbooks/wblib/helpers.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bR9mEiULrHGAGOQNy2gI5X2JQl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../formation-Python_standard" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="helpers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="formation-Python_bases" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workbooks/wblib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workbooks/wblib/helpers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.helpers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d17a34-931c-4d52-bc71-2ea16ef69ea9" name="Default Changelist" comment="" />
+      <created>1588584196102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588584196102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1588774871364">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1588774871364" />
+    <state width="1340" height="256" key="GridCell.Tab.0.bottom" timestamp="1588691417437">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588691417437" />
+    <state width="1340" height="256" key="GridCell.Tab.0.center" timestamp="1588691417437">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588691417437" />
+    <state width="1340" height="256" key="GridCell.Tab.0.left" timestamp="1588691417436">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588691417436" />
+    <state width="1340" height="256" key="GridCell.Tab.0.right" timestamp="1588691417437">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588691417437" />
+    <state x="682" y="153" key="SettingsEditor" timestamp="1588748835474">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="682" y="153" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1588748835474" />
+  </component>
+</project>
